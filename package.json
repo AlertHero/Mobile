@@ -37,7 +37,7 @@
     "immutability-helper": "^2.5.0",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.4",
-    "moment": "^2.19.1",
+    "moment": "^2.29.4",
     "prop-types": "^15.6.0",
     "react": "^16.0.0-alpha.12",
     "react-apollo": "^2.0.4",
