@@ -10,7 +10,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1",
     "eslint-plugin-react-native": "^3.2.1",
-    "jest-expo": "~20.0.0",
+    "jest-expo": "~47.0.1",
     "react-native-vector-icons": "^4.5.0",
     "react-test-renderer": "16.0.0-alpha.12"
   },
@@ -41,7 +41,7 @@
     "prop-types": "^15.6.0",
     "react": "^16.0.0-alpha.12",
     "react-apollo": "^2.0.4",
-    "react-native": "^0.48.4",
+    "react-native": "^0.70.6",
     "react-native-action-button": "^2.8.1",
     "react-native-button": "^2.3.0",
     "react-native-check-box": "^2.0.2",
